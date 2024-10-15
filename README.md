@@ -1,7 +1,9 @@
 # ecom-website
 Welcome to the Cosmetics E-Commerce Website project! This repository contains the source code for a dynamic online store dedicated to selling a wide range of cosmetics. Our goal is to create a user-friendly platform that allows customers to explore and purchase high-quality beauty products easily.
 <br>
+
 Features
+
 <br>
 User Registration/Login: Secure user authentication system.<br>
 Product Catalog: Browse and search for cosmetics by category, brand, or price.<br>
@@ -10,14 +12,15 @@ Checkout Process: Seamless payment integration for easy transactions.<br>
 Order History: View past purchases and track orders.<br>
 Responsive Design: Fully responsive layout for a great experience on any device.
 <br>
+
 Technologies Used
+
 <br>
 Frontend: HTML, CSS, JavaScript, React <br>
 Backend: Node.js<br>
-
-
 Deployment: Heroku, Vercel
 <br>
+
 Contact<br>
 For any questions or feedback, feel free to reach out:<br>
 
