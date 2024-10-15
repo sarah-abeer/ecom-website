@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=New+Amsterdam&family=Pacifico&display=swap');
+@import "compass/css3";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --main-bg-color: rgb(253, 203, 214);
+}
+
+header {
+    background-color: var(--main-bg-color);
+    font-family: "Oswald", sans-serif;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+nav ul {
+    height: 57px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    color: rgb(19, 15, 10);
+    padding: 0 23px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: rgb(38, 68, 240);
+    font-weight: bold;
+}
+
+
+.ico-mglass {
+    margin: 8px;
+    position: relative;
+    display: inline-block;
+    background: #fff;
+    border-radius: 30px;
+    height: 8px;
+    width: 8px;
+    border: 2px solid #888;
+
+    &:after {
+        content: "";
+        height: 4px;
+        width: 8px;
+        background: #888;
+        position: absolute;
+        top: 7px;
+        left: 5px;
+        transform: rotate(45deg);
+        transform: rotate(45deg);
+        transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+
+}
+
+.search input {
+    height: 27px;
+    width: 30vw;
+    padding: 0 12px;
+}
+
+.btn {
+    margin: 13px;
+    background-color: rgb(156, 156, 250);
+    cursor: pointer;
+}
+
+.container {
+    min-height: calc(100vh - 57px - 12vh);
+}
+
+.slider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.card{
+    max-width: 89vw;
+    margin: auto;
+    /* background-color: aqua; */
+}
+.card-item{
+    display:inline-flex;
+    justify-content: center;
+    width: 10vw;
+    flex-direction: column;
+    margin: 49px;
+   
+
+}
+.lines{
+    
+    padding: 9px;
+   
+}
+footer {
+    height: 12vh;
+    background-color: var(--main-bg-color);
+    color: rgb(0, 14, 14);
+    font-family: "Oswald", sans-serif;
+}
