@@ -12,11 +12,11 @@ Responsive Design: Fully responsive layout for a great experience on any device.
 <br>
 Technologies Used
 <br>
-Frontend: HTML, CSS, JavaScript, React (or any framework you used)<br>
-Backend: Node.js, Express.js (or any backend framework)<br>
-Database: MongoDB (or any database you used)<br>
-Payment Integration: Stripe (or any payment gateway you integrated)<br>
-Deployment: Heroku, Vercel, or any hosting service
+Frontend: HTML, CSS, JavaScript, React <br>
+Backend: Node.js<br>
+
+
+Deployment: Heroku, Vercel
 <br>
 Contact<br>
 For any questions or feedback, feel free to reach out:<br>
