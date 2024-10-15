@@ -3,26 +3,26 @@ Welcome to the Cosmetics E-Commerce Website project! This repository contains th
 <br>
 Features
 <br>
-User Registration/Login: Secure user authentication system.
-Product Catalog: Browse and search for cosmetics by category, brand, or price.
-Shopping Cart: Add, remove, and manage products in your cart.
-Checkout Process: Seamless payment integration for easy transactions.
-Order History: View past purchases and track orders.
+User Registration/Login: Secure user authentication system.<br>
+Product Catalog: Browse and search for cosmetics by category, brand, or price.<br>
+Shopping Cart: Add, remove, and manage products in your cart.<br>
+Checkout Process: Seamless payment integration for easy transactions.<br>
+Order History: View past purchases and track orders.<br>
 Responsive Design: Fully responsive layout for a great experience on any device.
 <br>
 Technologies Used
 <br>
-Frontend: HTML, CSS, JavaScript, React (or any framework you used)
-Backend: Node.js, Express.js (or any backend framework)
-Database: MongoDB (or any database you used)
-Payment Integration: Stripe (or any payment gateway you integrated)
+Frontend: HTML, CSS, JavaScript, React (or any framework you used)<br>
+Backend: Node.js, Express.js (or any backend framework)<br>
+Database: MongoDB (or any database you used)<br>
+Payment Integration: Stripe (or any payment gateway you integrated)<br>
 Deployment: Heroku, Vercel, or any hosting service
 <br>
-Contact
-For any questions or feedback, feel free to reach out:
+Contact<br>
+For any questions or feedback, feel free to reach out:<br>
 
-Author- Sarah Abeer
-Email: isarahabeer@gmail.com
-GitHub: yourusername
+Author- Sarah Abeer<br>
+Email: isarahabeer@gmail.com<br>
+GitHub: sarah-abeer<br>
 Thank you for checking out the Cosmetics E-Commerce Website project! Happy coding! 
 
